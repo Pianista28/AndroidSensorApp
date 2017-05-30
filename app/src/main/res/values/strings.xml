@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab3Sensors</string>
+    <string name="like">like</string>
+    <string name="search">Search</string>
+    <string name="info">Info about author</string>
+    <string name="about_author">Author: Jan Borowiak</string>
+</resources>
